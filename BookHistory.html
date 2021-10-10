@@ -1,0 +1,662 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+   <title>Opac</title>
+	<link rel="stylesheet" href="/opac/lwt/LWT.css?version=299">
+	<link rel="stylesheet" href="/opac/css/opacKiosk.css?version=299">
+	<link rel="stylesheet" href="/opac/css/search.css?version=299">
+	<link rel="stylesheet" href="/opac/css/searchResult.css?version=299">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=11" />
+
+    <script>
+                context = function(){
+                var contextPath = "/opac";
+                var keyword_Hits_Fetch_Time="200";
+                var showHits="1";
+                return { getContextPath : contextPath ,
+                getKeyword_Hits_Fetch_Time:keyword_Hits_Fetch_Time,
+                getShowHits:showHits};
+                }
+                </script>
+
+ 
+<script type="text/javascript" src="/opac/lwt/js/jquery-3.3.1.min.js?version=299" ></script>
+	<script type="text/javascript" src="/opac/lwt/js/non-minified/lswt.js?version=299" ></script>
+	<script type="text/javascript" src="/opac/lwt/js/lswt.iterator.min.js?version=299" ></script>
+	<script type="text/javascript" src="/opac/lwt/js/non-minified/lswt.comboS.js?version=299" ></script>
+	<script type="text/javascript" src="/opac/js/opacKiosk.js?version=299" ></script>
+	<script type="text/javascript" src="/opac/js/details.js?version=299" ></script>
+    <script type="text/javascript" src="/opac/js/opacKeyboard.js?version=299" ></script>
+
+</head>
+<body  align="center" defaultUrl="S" highLightOption="search" background="null" >
+
+  
+	
+<script type='text/javascript'>
+showLoader()
+</script><div  id="Snippet39" class="oldTheme" _componentType="25"  ><link rel="stylesheet" href="/opac/css/opacTheme.css" ></div>
+<div  id="headerPanel" class="headerPnl" _componentType="12"  style="top:0px;left:0px;position:absolute;overflow:visible;float:left;">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+	<title>Opac</title>
+
+
+
+</head>
+<body  class="mainHeaderBody" data-pageId="myaccount"  >
+<div  id="mainPanel" class="mainPanel" _componentType="12" >
+
+	<div  id="imgPanel" class="imgPanel" _componentType="12"  style="position:relative;overflow:visible;background-image:url('/images/hdrbkimg.png')">
+
+		<img  id="clientLogo" class="clientLogo" _componentType="8" src=""   style="width:75px;height:20px;top:0px;left:0px;position:relative;display:none;" />
+      
+	   <p id="lblLibraryName" class="lblLibraryName" _componentType="10"  style="top:0px;left:0px;position:relative;display:block;">
+		IIIT-Hyderabad Library
+		</p>
+		
+		<div  id="pnlLoginDtls" class="pnlLoginDtls" _componentType="12"  style="position:absolute;overflow:visible;display:none;">
+		   <span  id="logoutImg" class="logoutImgCls" onclick=sessionLogout(this) style="width:25px;height:20px;display:none;"></span>
+           <span  id="contactUsImg" class="contactUsCls" onclick="onClickHoldings(this)" style="width:80px !important;height:20px;display:none;"></span>
+		   <div  id="pnlUserDtl" class="pnlUserDtl" _componentType="12" onclick="redirectToMyProfile()">
+               <p  id="lblUserName" class="lblUserName" title="null" _componentType="10" >
+					null
+			   </p>
+				<div  id="loginImagePanel" class="loginImagePanelHeader floatRight" _componentType="12" >
+                    <img  id="Image1" _componentType="8"   />
+					<div  id="userImg" class="loginImageHeader" _componentType="12" >
+                    </div>
+				</div>
+			</div>
+		</div>
+		<a  href="/opac/home.jsp" id="Link66" class="linkLogo" _componentType="11"  >
+
+
+			<img  id="Image1" _componentType="8"   />
+			<div  id="opacLogoImg" class="opacLogoImg opacLogoVersion10"  _componentType="12" >
+
+			</div>
+		</a>
+		<div  id="divImage" class="divImage" _componentType="12" >
+
+			
+			
+			<div  id="mobileImg" class="displayNONE" _componentType="12" >
+
+			</div>
+			<div  id="Panel292" class="helpImgNew" _componentType="12" >
+
+			</div>
+		</div>
+	</div>
+	<div  id="hdrPanel" class="hdrPanel" data-startStickyY="111" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+		<ul  style="width: 972px !important;height:100%;top:0px;position:relative;overflow:visible;margin:0 auto;"  id="Iterator22" class="iterator iteratorLI" _componentType="9" layout="1" numBlocks="0">
+
+			
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/search/search.html" target="" id="search" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					Search
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/browse/browse.html" target="" id="browse" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					Browse
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/journals/journals.html" target="" id="journals" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					Journals
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/newaddition/newAddition.html" target="" id="newaddition" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					New Additions
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/isbnNo/isbn.html" target="" id="isbnNo" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					ISBN Search
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/accessionNo/accession.html" target="" id="accessionNo" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					Accession Search
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="/opac/myaccount/myAccount.html" target="" id="myaccount" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					My Account
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			<li class=' floatedLeft'>
+				<a  href="http://localhost:8080/fedsearch/main" target="_blank" id="fedSearch" class="modulesName" _componentType="11" onclick="highLightClick(this)" onmouseover="highlightOnHover(this)"  >
+					Federated Search
+
+					<div  id="Panel23" class="pnlIconImg" _componentType="12" align="center"  style="position:relative;overflow:visible;">
+
+						<img  id="Image100" _componentType="8" src=""   />
+					</div>
+				</a>
+			</li>
+			
+			
+		</ul>
+		<a  href="/opac/userDetails" target="_blank" id="lnkLogs" class="lnkLogs" _componentType="11"  >
+			
+
+		</a>
+		<div  id="pnlModulesHovrdPnl" class="pnlModulesHovrdPnl" _componentType="12" >
+
+		</div>
+		<div  id="pnlSelectedModule" class="pnlSelectedModule" _componentType="12" >
+
+		</div>
+		 <div  id="multiSiteComboPanel" class="multiSiteComboPanelDisplayNone" _componentType="12" >
+
+			<img  id="Image1" _componentType="8"   />
+			<div  id="locationImg" class="locationImg" _componentType="12" >
+
+			</div>
+			<div  id="ComboBox168" class="multiSiteCombo combo null" usePickerIconSprite="false" listOpenType="hover" >
+				
+				<select name="Site Location" class="opacSelectTag" onkeydown="_comboKeyEvent(this)" onblur="$('#ComboBox168').css('border','none');_comboBlur(this,'multiSiteCombo combo')" onfocus="$('#ComboBox168').css('border','1px solid #FF9900');_comboFocus(this,'multiSiteCombo combo');"  onmouseover="" onmouseout=""  onchange="_updateSelectedValue(this);"  >
+					
+					<option  value="1">Location</option>
+
+					</select>
+				<div class='customOptionsContainer'>
+					<ul class="multiSiteCombo comboOptionsList">
+						
+						<li class="multiSiteCombo comboOption"  tabindex='0' value="1">Location</li>
+
+						</ul></div>
+				<ul  class="multiSiteCombo comboBase" style="z-index:0;" >
+
+					<li _type='text' style='padding-right:20px' class="multiSiteCombo comboText" ></li>
+					<li class="multiSiteCombo comboPicker">
+						<img _type='picker'  src='/opac/lwt/images/combo/comboBoxPicker.png' style='height:100%;width:20px;min-height:100%; min-width: 20px'/>
+					</li>
+				</ul>
+				<script type='text/javascript'>
+					if(!_LSWT.comboBoxes){
+						_LSWT.comboBoxes = {};
+					}
+					var currComboBox = {};
+
+					currComboBox.id='ComboBox168';
+					currComboBox.isCustomCombo=true;
+					currComboBox.isMultiSelect=false;
+					currComboBox.enableFly=false;
+					currComboBox.defaultValue='Site Location';
+					currComboBox.listOpenType='hover';
+					_LSWT.comboBoxes[currComboBox.id] =  new ComboBox(currComboBox);
+				</script>
+			</div>
+
+		</div>
+	</div>
+	<div  id="bottomPanel" class="bottomPanel" _componentType="12"  style="position:relative;overflow:visible;">
+
+	</div>
+	<div  id="headerMask" class="" _componentType="12" >
+
+	</div>
+</div>
+<div  id="HoldingLinkPnl" class="contactLinkClass contactLinkClassModified" title="View Holdings" _componentType="12"  style="top: 37%;position:relative;top:80%%;height:0;cursor: pointer;min-width:0%;overflow:visible;background-color:none;display:block;">
+
+	<span  id="HoldingImg" class="holdingCls" onclick="onClickHoldings(this)" style="width:80px !important;height:105px;left:54px;font-size:15px;top:700%;display:block;">.</span>
+ </div>
+<div  id="ExternlLinkPnl" class="null" title="External Link" _componentType="12"  style="position:relative;cursor: pointer;overflow:visible;display:none;">
+
+	<p  id="externalLinks" title="External Link" _componentType="10"  style="position:relative;display:none;visibility:null;">
+		null
+	</p>
+	<img  id="Image1" _componentType="8"   />
+	<div  id="Image192" class="null" _componentType="12" >
+
+	</div>
+</div>
+<br>
+<div  id="ContactUsLinkPnl" class="contactLinkClass contactLinkClassModified" title="External Link" _componentType="12"  style="position:relative;top:62%;height:3%;cursor: pointer;min-width:0%;overflow:visible;background-color:none;width: 26px;display:none;">
+
+	<span  id="contactUsImg" class="contactUsCls1" onclick="onClickContactUs(this)" style="width:80px !important;height:105px;left:6px;font-size:15px;top:62%;background-image:url('../images/feedback.png');display:none;">.</span>
+ </div>
+<div  id="ulogPnl" class="ulogPnlClass" _componentType="12"  style="position:relative;overflow:visible;display:none;">
+
+	<a  href="/opac/userDetails" target="_blank" id="userlogs" class="userlogs" _componentType="11"  style="position:relative;overflow:visible;display:none;" >
+		null
+
+	</a>
+</div>
+<div  id="imgPopuppanel" class="imgPopuppanel" _componentType="12" >
+
+	<img  id="appImg" class="appImg" _componentType="8" src="/opac/images/MobileScanImg.png"   />
+	<div  id="Panel285" class="appdowndiv" _componentType="12" >
+
+		<a  href="https://play.google.com/store/apps/details?id=com.libsys.lsearch&hl=en" target="_blank" id="Link286" class="appdown" _componentType="11"  >
+			Activate The App
+
+		</a>
+	</div>
+</div>
+<p  id="hiddenForSpecial" _componentType="10"  style="width:75px;height:20px;top:0px;left:0px;position:relative;display:none;">
+	false
+</p>
+<div  id="keyBrdPanel" class="keybrdpnl" _componentType="12"  style="position:relative;overflow:visible;display:none;">
+
+</div>
+<div  id="dispKeyBrdPnl" class="dispkeybrdpnl" _componentType="12"  style="position:relative;overflow:visible;">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang='en'>
+<head>
+   <title></title>
+	<link rel="stylesheet" href="/opac/lwt/LWT.css">
+
+
+	<script type="text/javascript" src="/opac/lwt/js/jquery-3.3.1.min.js?version=299" ></script>
+	
+
+</head>
+<body   >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+</div>
+<div  id="langOptions" class="combo" usePickerIconSprite="false" listOpenType="click"  style="top:-999px;position:relative;">
+
+<select  name="" style="z-index:1;height:100%;min-height:10px;width:100%;position:absolute;left:0;top:0;opacity:0;filter:alpha(opacity=0)" onkeydown="_comboKeyEvent(this)" onblur="$('#langOptions').css('border','none');_comboBlur(this,'combo')" onfocus="$('#langOptions').css('border','1px solid #FF9900');_comboFocus(this,'combo');"  onmouseover="" onmouseout=""  onchange="_updateSelectedValue(this);changeLang();"  tabindex='0'  >
+	
+		 <option  value="1">Hindi</option>
+
+		
+		 <option  value="2">Tamil</option>
+
+		
+		 <option  value="3">Telugu</option>
+
+		
+		 <option  value="4">Urdu</option>
+
+		
+		 <option  value="5">Bengali</option>
+
+		
+		 <option  value="6">Roman</option>
+
+		
+		 <option  value="7">Punjabi</option>
+
+		</select>
+	<ul  class="comboBase" style="z-index:0;" >
+
+		<li _type='text' style='padding-right:20px' class="comboText" >Hindi</li>
+		<li class="comboPicker">
+			<img _type='picker'  src='/opac/lwt/images/combo/comboBoxPicker.png' style='height:100%;width:20px;min-height:100%; min-width: 20px'/>
+		</li>
+	</ul>
+</div>
+
+</body>
+</html>
+
+
+</div>
+<div  id="opacMainDataPnl" class="mainPnl" _componentType="12" align="center"  style="z-index:-1;clear:left;">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet"
+          href="/opac/lwt/skin_styles.css?version=299">
+
+
+</head>
+<body onload="clearLoader()">
+<div id="Panel6" class="myAccountCls dcPrnt" _componentType="12"
+     style="width:100%;height:100%;top:0px;left:0px;position:relative;overflow:visible;">
+
+    <div id="leftPanel" class="leftPanelCls" _componentType="12" style="display: none">
+
+        <p id="myAccountlbl" _componentType="10" style="top:0px;position:relative;float:left;">
+            My Account
+        </p>
+        <ul style="width:auto;height:100%;top:0px;left:0px;position:relative;overflow:auto;margin:0;padding:0;clear:left;"
+            id="Iterator8" class="iterator" _componentType="9" layout="2" numBlocks="0">
+
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/myProfile.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="myProfile" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        My Profile
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/checkout.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="checkOut" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Items Checked out
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/reservations.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="reservations" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Reserves
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/history.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="history" class="linkSelected" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        History
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/log.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="log" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Fine Logs
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/changePassword.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="changePassword" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Change Password
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/showCart.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="Show Cart" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Show Cart
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/rssLinks.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="RSS Links" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        RSS Links
+                    </p>
+                </a>
+            </li>
+            
+            <li class=''>
+                <a style="top:0px;left:0px;position:relative;overflow:visible;" href="/opac/myaccount/loginHistory.html"
+                   id="Link" _componentType="11" onclick="setTokenForLinks(this)">
+
+
+                    <p id="Login History" class="lnkCls" _componentType="10"
+                       style="top:0px;left:0px;position:relative;">
+                        Login History
+                    </p>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <div id="pnlAcntDtls" class="pnlAcntDtls" _componentType="12"
+         style="width:88%;position:relative;overflow:visible;float:left;">
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+</body>
+</html>
+
+<div  id="maskHome" _componentType="12"  style="width:100%;height:100%;top:0px;left:0px;position:fixed;overflow:visible;display:block;">
+
+</div>
+</div><div  id="loginpanel" class="loginPanelCls" _componentType="25"  style="display:inline-block;" ><script>$("#loginpanel").load("/opac/login.jsp")</script></div>
+<div  id="pnlScrollTop" class="pnlScrollTop" _componentType="12" onclick="scrollToTop()" style="width: 30px !important;" >
+
+<p  id="lblTop" class="lblTop" _componentType="10" >
+Top
+</p>
+</div>
+<p  id="hiddenVersionID" class="noDisplay" _componentType="10" >
+    299
+</p><br>
+<div  id="basicSearchFooter" class="fixedSearchFooter" _componentType="12" style="display:block;background-color:white;color:black;height:2px;text-align: right;" >
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title></title>
+    
+          
+
+
+    
+            
+    
+            
+
+</head>
+<body>
+<img src="/images/libsys10opac.png" style="height:25px;float:right;margin-right: 20px;margin-top:-10px;display:none;"></img>
+<div id="Panel18" class="pnlSrchFooter" _componentType="12" style="margin-right: 20px;margin-top:-10px;float:right;">
+  IIIT, Hyderabad                
+</div>
+</body>
+</html>
+
+</div>
+<script type='text/javascript'>
+clearLoader()
+</script>
+</body>
+</html>
