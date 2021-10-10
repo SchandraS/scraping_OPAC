@@ -13,7 +13,7 @@ LIBSyURL = ('http://10.4.20.51:8380/opac/')
 loginurl = ('http://10.4.20.51:8380/opac/OpacKiosk')
 secure_url = ('http://10.4.20.51:8380/opac/myaccount/myAccount.html')
 
-username = password = '2016122001'
+username = password = '2016121001'
 #password = '2018122009'
 
 
@@ -58,8 +58,10 @@ with requests.Session() as s: #start session
 	r3 = s.get(url_BookIssueHistory)
 	print("->Book History visit " + str(r3))
 
-	f = open("BookHistory.html",'w')
+	f = open("BookHistory.html",'a')
+	print = f.write
 	f.write(r3.text)
+	print("helloe")
 	f.close()
 
 

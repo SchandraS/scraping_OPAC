@@ -74,7 +74,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			return
 	
 	
-	
+	#%% Visit Pages and Get Data
 		try: #Get the data pages from OPAC
 			r_BookHist = s.get(headerVar.url_BookIssueHistory)
 			print("->Book History visit " + str(r_BookHist))
@@ -100,7 +100,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("!ERROR:Not able to fetch data form Data Pages on OPAC")
 	
 	
-	
+	#%% Save Data in File.
 		try: #Write data to file
 			with open(userPath + '//BookHist.html','w') as BookHist:
 				BookHist.write(r_BookHist.text)
