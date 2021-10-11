@@ -18,6 +18,8 @@ TODO:
 import requests
 import os
 import HEADER_scrapingLIBSYS as headerVar
+import ErrorCode_scrapingLIBSYS as err
+
 #%%
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	try: #creating directory for Data
@@ -60,7 +62,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("->Visiting OPAC to set cookies " + str(r0))
 		except : #not able to visit page.
 			print("!Error: Not able to visit OPAC, VPN not connected or site down")
-			return #break over here and exit
+			return  err.SITE_DOWN #break over here and exit
 
 
 		try: #Connect to server and authenticate
@@ -68,11 +70,11 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("->login response\n" + r1.text)
 			if "_loginError" in r1.text:
 				print("!WARNING:invalid userID or user does not exist")
-				return #break from here
+				return err.INVALID_UID #break from here
 		except : #Not able to Connect
 			print("->not able to post to server")
-			return
-	
+			return err.SERVER_POSTREQ_DOWN
+
 	
 	#%% Visit Pages and Get Data
 		try: #Get the data pages from OPAC
