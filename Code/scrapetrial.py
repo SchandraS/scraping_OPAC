@@ -13,7 +13,7 @@ LIBSyURL = ('http://10.4.20.51:8380/opac/')
 loginurl = ('http://10.4.20.51:8380/opac/OpacKiosk')
 secure_url = ('http://10.4.20.51:8380/opac/myaccount/myAccount.html')
 
-username = password = '2016121001'
+username = password = '2021101001'
 #password = '2018122009'
 
 

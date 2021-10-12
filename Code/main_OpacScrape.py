@@ -6,7 +6,7 @@ Created on Tue Oct 12 00:48:07 2021
 """
 
 import scrapingLIBSYS as scrp
-
+import scrape_Range as scrng
 
 # Main Function
 if __name__ == "__main__" :
@@ -23,6 +23,7 @@ if __name__ == "__main__" :
 	
 	#UID Range
 	UID_range = range(UID_start,UID_end+1)
+	UID_range = scrng.usrRange
 
 
 	for UID in UID_range: #Iterate though UIds
