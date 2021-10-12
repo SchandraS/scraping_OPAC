@@ -30,8 +30,10 @@ import shutil #remove directories
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	try: #creating directory for Data
 		os.mkdir(headerVar.dataPath)
+		return 0
 	except:
 		print("Data directory already exists\n")
+		return 1
 
 #%
 def DeleteUser_dir(UID): # Delete the Given User's directory
@@ -39,6 +41,7 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 	UID_dir = os.path.join(headerVar.dataPath, str(UID)) #Path to UID directory
 	shutil.rmtree(UID_dir, ignore_errors = False) #Delete Directory and FIles
 	print("~~ Directory Deleted:" + str(UID)) #Log & Print #Directory Deleted
+	return 0
 
 
 
