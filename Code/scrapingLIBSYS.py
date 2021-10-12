@@ -51,7 +51,7 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 
 	#Printing time of start
-	print("#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n\n')
+	print("\n#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n\n')
 	
 	#username & password variable (run on a loop)
 	username = password = UsrID #'2018122009'
