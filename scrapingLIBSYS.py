@@ -28,12 +28,15 @@ import shutil #remove directories
 
 #%
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
-	try: #creating directory for Data
+
+	if not os.path.isdir(headerVar.dataPath):#creating directory for Data
 		os.mkdir(headerVar.dataPath)
+		print("Data Directory created\n")
 		return 0
-	except:
+	else : #print it already exists
 		print("Data directory already exists\n")
 		return 1
+
 
 #%
 def DeleteUser_dir(UID): # Delete the Given User's directory
