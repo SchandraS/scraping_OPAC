@@ -12,8 +12,16 @@ f = open(scrp.headerVar.dataPath + "\\logger.txt",'a')
 #L = ["hellow1",'HEDHED']
 #f.writelines(L)
 
+def piper(S): #Pipes the output two file
+	global f
+	f.write(S)
+	global log
+	log.write(S)
+	print(S)
+
 if __name__ == "__main__" : # Main Function
 	scrp.CreateData_dir() # Creating Directory
 	print("\nhello2")
+	piper("\nhello5")
 	log.close()
 	f.close()
