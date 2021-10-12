@@ -22,13 +22,16 @@ def piper(S): #Prints the output to log file & stdout(terminal)
 	log.write(S)
 	print(S)
 
-scrp.print = piper #set print commands in scrapingLIBSYS to use piper()
+#set print commands in scrapingLIBSYS to use piper()
+scrp.print = piper
 
 if __name__ == "__main__" : # Main Function
-	scrp.CreateData_dir() # Creating Directory
-	#print("\nhello2")
 	UID = "2018122009"
-	piper("Scraping started at IST:" + str(getTime()) + "\nFor User:" + UID)
-	scrp.ScrapeUserData(UID)
-	log.close()
-	piper("\nLog File Closed at:" + str(getTime()) + "\n\n")
+	piper("#Scraping started at IST:" + str(getTime()) + "\nFor User:" + UID +'\n')
+	scrp.CreateData_dir() # Creating Directory
+	scrp.ScrapeUserData(UID) #Scrping UID
+
+#Closing Log File
+piper("\n#Log File Closed at:" + str(getTime()) + "\n\n")
+log.close()
+print("\n\n!!!Log file closed {Message after running log.close()}")
