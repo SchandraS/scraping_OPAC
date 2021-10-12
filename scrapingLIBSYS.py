@@ -10,8 +10,8 @@ http://2018122009:2018122009@10.4.20.51:8380/opac/myaccount/myAccount.html
 http://2018122009:2018122009@10.4.20.51:8380/opac/OpacKiosk
 
 TODO:
-	1. turn code into fucntions and modularize it
-	2. add logging functionality
+ok	1. turn code into fucntions and modularize it
+	2. add logging functionality     
 
 
 """
