@@ -15,7 +15,8 @@ def getTime(): # function to get current time in IST
 	# using now() to get current time
 	return datetime.datetime.now(pytz.timezone('Asia/Kolkata'))
 
-
+"""
+"""
 # Creating Directory
 scrp.CreateData_dir()
 
