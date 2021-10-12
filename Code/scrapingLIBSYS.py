@@ -31,19 +31,19 @@ import ScrapeLogger as scplg
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	if not os.path.isdir(headerVar.dataPath):#creating directory for Data
 		os.mkdir(headerVar.dataPath)
-		print("Data Directory created\n")
+		print("Data Directory created\n\n")
 		return 0
 	else : #print it already exists
-		print("Data directory already exists\n")
+		print("Data directory already exists\n\n")
 		return 1
 
 
 #%
 def DeleteUser_dir(UID): # Delete the Given User's directory
-	print("~~ UID Invalid, Deleting Directory for: " + str(UID)) #Log & Print
+	print("~~ UID Invalid, Deleting Directory for: " + str(UID) +'\n') #Log & Print
 	UID_dir = os.path.join(headerVar.dataPath, str(UID)) #Path to UID directory
 	shutil.rmtree(UID_dir, ignore_errors = False) #Delete Directory and FIles
-	print("~~ Directory Deleted:" + str(UID)) #Log & Print #Directory Deleted
+	print("~~ Directory Deleted:" + str(UID) +'\n') #Log & Print #Directory Deleted
 	return 0
 
 
@@ -51,7 +51,7 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 
 	#Printing time of start
-	print("\n#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n\n')
+	print("#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n')
 	
 	#username & password variable (run on a loop)
 	username = password = UsrID #'2018122009'

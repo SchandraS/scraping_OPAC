@@ -14,11 +14,11 @@ if __name__ == "__main__" :
 	#set print commands in scrapingLIBSYS to use piper() in ScrapeLogger
 	scrp.print = scrp.scplg.piper
 
-	#Open Log file
-	scrp.scplg.openLog()
-
 	# Creating Data Directory
 	scrp.CreateData_dir()
+
+	#Open Log file
+	scrp.scplg.openLog()
 
 	#UID setup
 	UID_start = 2018122001 #first roll number
