@@ -47,7 +47,6 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 	return 0
 
 
-
 #%
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 
