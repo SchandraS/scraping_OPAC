@@ -46,7 +46,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	#r =requests.post(loginurl, data=payload)
 	#print(r.text)
 	#%% Setup Directory for Current User
-	userPath = headerVar.dataPath +'//'+ str(username) #path for current user directory
+	userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
 	
 	try: #create directory for Current User
 		os.mkdir(userPath)
