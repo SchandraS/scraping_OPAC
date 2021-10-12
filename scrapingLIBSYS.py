@@ -20,14 +20,24 @@ import os
 import HEADER_scrapingLIBSYS as headerVar
 import ErrorCode_scrapingLIBSYS as err
 
+
+
+
+
+
 #%
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	try: #creating directory for Data
 		os.mkdir(headerVar.dataPath)
 	except:
 		print("Data directory already exists\n")
+
+
 #%
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
+
+
+
 	
 	#username & password variable (run on a loop)
 	username = password = UsrID #'2018122009'
