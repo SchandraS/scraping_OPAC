@@ -20,6 +20,7 @@ import os
 import HEADER_scrapingLIBSYS as headerVar
 import ErrorCode_scrapingLIBSYS as err
 import shutil #remove directories
+import ScrapeLogger as scplg
 
 
 
@@ -49,8 +50,8 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 #%
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 
-
-
+	#Printing time of start
+	print("#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n')
 	
 	#username & password variable (run on a loop)
 	username = password = UsrID #'2018122009'
