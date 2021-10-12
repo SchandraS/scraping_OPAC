@@ -28,7 +28,6 @@ import shutil #remove directories
 
 #%
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
-
 	if not os.path.isdir(headerVar.dataPath):#creating directory for Data
 		os.mkdir(headerVar.dataPath)
 		print("Data Directory created\n")
