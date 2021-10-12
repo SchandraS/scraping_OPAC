@@ -25,7 +25,7 @@ def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	try: #creating directory for Data
 		os.mkdir(headerVar.dataPath)
 	except:
-		print("Data directory already exists")
+		print("Data directory already exists\n")
 #%%
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
@@ -51,7 +51,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	try: #create directory for Current User
 		os.mkdir(userPath)
 	except:
-		print("user directory already exists")
+		print("user directory already exists\n")
 	
 	
 	#%% Login & Scraping
@@ -59,77 +59,77 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
 		try: #Visit HomePage to set cookies
 			r0 = s.get(headerVar.LIBSyURL)
-			print("->Visiting OPAC to set cookies " + str(r0))
+			print("->Visiting OPAC to set cookies " + str(r0) + '\n')
 		except : #not able to visit page.
-			print("!Error: Not able to visit OPAC, VPN not connected or site down")
+			print("!Error: Not able to visit OPAC, VPN not connected or site down\n")
 			return  err.SITE_DOWN #break over here and exit
 
 
 		try: #Connect to server and authenticate
 			r1 = s.post(headerVar.loginurl,data=payload)
-			print("->login response\n" + r1.text)
+			print("->login response\n" + r1.text + '\n')
 			if "_loginError" in r1.text:
-				print("!WARNING:invalid userID or user does not exist")
+				print("!WARNING:invalid userID or user does not exist\n")
 				return err.INVALID_UID #break from here
 		except : #Not able to Connect
-			print("->not able to post to server")
+			print("->not able to post to server\n")
 			return err.SERVER_POSTREQ_DOWN
 
 	
 	#%% Visit Pages and Get Data
 		try: #Get the data pages from OPAC
 			r_BookHist = s.get(headerVar.url_BookIssueHistory)
-			print("->Book History visit " + str(r_BookHist))
+			print("->Book History visit " + str(r_BookHist) + '\n')
 	
 			r_FineLog = s.get(headerVar.url_FineLog)
-			print("->Fine Log History visit " + str(r_FineLog))
+			print("->Fine Log History visit " + str(r_FineLog) + '\n')
 	
 			r_Profile = s.get(headerVar.url_Profile)
-			print("->Profile visit " + str(r_Profile))
+			print("->Profile visit " + str(r_Profile) + '\n')
 	
 			r_LoginHist = s.get(headerVar.url_LoginHist)
-			print("->Login History visit " + str(r_LoginHist))
+			print("->Login History visit " + str(r_LoginHist) + '\n')
 	
 			r_BookCart = s.get(headerVar.url_BookCart)
-			print("->Book Cart visit " + str(r_BookCart))
+			print("->Book Cart visit " + str(r_BookCart) + '\n')
 	
 			r_Reservations = s.get(headerVar.url_Reservations)
-			print("->Reservations visit " + str(r_Reservations))
+			print("->Reservations visit " + str(r_Reservations) + '\n')
 	
 			r_Checkout = s.get(headerVar.url_Checkout)
-			print("->Checkout visit " + str(r_Checkout))
+			print("->Checkout visit " + str(r_Checkout) + '\n')
 		except: #not able to fetch it
-			print("!ERROR:Not able to fetch data form Data Pages on OPAC")
+			print("!ERROR:Not able to fetch data form Data Pages on OPAC\n")
 	
 	
 	#%% Save Data in File.
 		try: #Write data to file
 			with open(userPath + '//BookHist.html','w') as BookHist:
 				BookHist.write(r_BookHist.text)
-				print("->Book History written ")
+				print("->Book History written\n")
 		
 			with open(userPath + '//FineLog.html','w') as FineLog:
 				FineLog.write(r_FineLog.text)
-				print("->Fine Log History written ")
+				print("->Fine Log History written\n")
 		
 			with open(userPath + '//Profile.html','w') as Profile:
 				Profile.write(r_Profile.text)
-				print("->Profile written ")
+				print("->Profile written\n")
 		
 			with open(userPath + '//LoginHist.html','w') as LoginHist:
 				LoginHist.write(r_LoginHist.text)
-				print("->Login History written ")
+				print("->Login History written\n")
 	
 			with open(userPath + '//BookCart.html','w') as BookCart:
 				BookCart.write(r_BookCart.text)
-				print("->Book Cart written ")
+				print("->Book Cart written\n")
 	
 			with open(userPath + '//Reservations.html','w') as Reservations:
 				Reservations.write(r_Reservations.text)
-				print("->Reservations written ")
+				print("->Reservations written\n")
 	
 			with open(userPath + '//Checkout.html','w') as Checkout:
 				Checkout.write(r_Checkout.text)
-				print("->Checkout written ")
+				print("->Checkout written\n")
 		except: #Was not Able to write Data to file
-			print("!ERROR: Not able to write DATA to file")
+			print("!ERROR: Not able to write DATA to file\n")
