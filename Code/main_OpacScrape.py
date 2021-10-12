@@ -18,12 +18,12 @@ if __name__ == "__main__" :
 	scrp.CreateData_dir()
 
 	#UID setup
-	UID_start = 2020201001 #first roll number
-	UID_end   = 2020201120 #last roll number
+	UID_start = 2018000001 #first roll number
+	UID_end   = 2018999999 #last roll number
 	
 	#UID Range
 	UID_range = range(UID_start,UID_end+1)
-	UID_range = scrng.usrRange
+# 	UID_range = scrng.usrRange
 
 
 	for UID in UID_range: #Iterate though UIds
