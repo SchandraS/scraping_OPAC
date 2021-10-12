@@ -20,13 +20,13 @@ import os
 import HEADER_scrapingLIBSYS as headerVar
 import ErrorCode_scrapingLIBSYS as err
 
-#%%
+#%
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	try: #creating directory for Data
 		os.mkdir(headerVar.dataPath)
 	except:
 		print("Data directory already exists\n")
-#%%
+#%
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
 	#username & password variable (run on a loop)
@@ -45,7 +45,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
 	#r =requests.post(loginurl, data=payload)
 	#print(r.text)
-	#%% Setup Directory for Current User
+	#% Setup Directory for Current User
 	userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
 	
 	try: #create directory for Current User
@@ -54,7 +54,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 		print("User directory already exists\n")
 	
 	
-	#%% Login & Scraping
+	#% Login & Scraping
 	with requests.Session() as s: #Start session
 	
 		try: #Visit HomePage to set cookies
@@ -76,7 +76,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			return err.SERVER_POSTREQ_DOWN
 
 	
-	#%% Visit Pages and Get Data
+	#% Visit Pages and Get Data
 		try: #Get the data pages from OPAC
 			r_BookHist = s.get(headerVar.url_BookIssueHistory)
 			print("->Book History visit " + str(r_BookHist) + '\n')
@@ -102,7 +102,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("!ERROR:Not able to fetch data form Data Pages on OPAC\n")
 	
 	
-	#%% Save Data in File.
+	#% Save Data in File.
 		try: #Write data to file
 			with open(userPath + '//BookHist.html','w') as BookHist:
 				BookHist.write(r_BookHist.text)
