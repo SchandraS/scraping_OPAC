@@ -8,8 +8,8 @@ Created on Tue Oct 12 00:48:07 2021
 import scrapingLIBSYS as scrp
 import datetime # for adding time
 import pytz # for timezone()
-import os
-import shutil
+# import os
+# import shutil
 
 def getTime(): # function to get current time in IST
 	# using now() to get current time
@@ -44,7 +44,7 @@ if __name__ == "__main__" :
 
 
 	for UID in UID_range: #Iterate though UIds
-		piper("#Scraping started at IST:" + str(getTime()) + "\nFor User: " + str(UID) +'\n')
+		#piper("#Scraping started at IST:" + str(getTime()) + "\nFor User: " + str(UID) +'\n')
 
 		#Scraping Data for UID
 		status_Scrape = scrp.ScrapeUserData(str(UID))
