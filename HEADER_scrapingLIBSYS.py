@@ -26,4 +26,4 @@ newDir = "Data"
 ParentDir = "C:\\Users\\RKSRIVASTAVA\\Documents\\Python Scripts\\scraping_OPAC"
 dataPath = ParentDir + "\\" + newDir
 # dataPath = os.path.join(ParentDir,newDir)
-
+logFile = dataPath + "\\" + "log.txt"
