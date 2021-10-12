@@ -33,9 +33,8 @@ def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	except:
 		print("Data directory already exists\n")
 
-
+#%
 def DeleteUser_dir(UID):
-
 	print("~~ UID Invalid, Deleting Directory for: " + str(UID)) #Log & Print
 	UID_dir = os.path.join(headerVar.dataPath, str(UID)) #Path to UID directory
 	shutil.rmtree(UID_dir, ignore_errors = False) #Delete Directory and FIles
