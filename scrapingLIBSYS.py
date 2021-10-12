@@ -51,7 +51,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	try: #create directory for Current User
 		os.mkdir(userPath)
 	except:
-		print("user directory already exists\n")
+		print("User directory already exists\n")
 	
 	
 	#%% Login & Scraping
