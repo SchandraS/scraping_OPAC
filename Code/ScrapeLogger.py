@@ -19,7 +19,7 @@ def getTime(): # function to get current time in IST
 def openLog():#Opening a log file
 	global log
 	log =  open(headerVar.logFile,'a') #return file variable
-	piper("\n#Log File Opened at: " + str(getTime()) + "\n")
+	piper("# Log File Opened at: " + str(getTime()) + "\n")
 	return log
 
 def piper(S): #Prints the output to log file & stdout(terminal)
@@ -29,12 +29,16 @@ def piper(S): #Prints the output to log file & stdout(terminal)
 
 def closeLog(): #Closing Log File
 	global log
-	piper("\n#Log File Closed at: " + str(getTime()) + "\n\n")
+	piper("\n# Log File Closed at: " + str(getTime()) + "\n")
+	#Print Scraping-Run Seperator for LOG FILE
+	piper("\n----------------------------------------------\
+---------------------------------\n")
+
 	try : # to close the file
 		log.close()
-		print("\n\n!!!Log file closed {Message after running log.close()}")
+		print("\n\n!==Log file closed {Message after running log.close()}")
 	except: #not able to close
-		print("\n\n!!!Log file NOT closed {Message after running log.close()}")
+		print("\n\n!==Log file NOT closed {Message after running log.close()}")
 
 #set print commands in scrapingLIBSYS to use piper()
 # scrp.print = piper

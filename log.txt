@@ -1,0 +1,4371 @@
+# Log File Opened at: 2021-10-13 02:12:20.638198+05:30
+* Data Directory created
+
+
+$ Scraping started at IST:2021-10-13 02:12:20.639199+05:30
+@ For User: 2018122001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhinav Navnit","_updateTokenId":"H1A4I7S7C0C8N3E0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:21.672396+05:30
+@ For User: 2018122002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Kunal Lahoti","_updateTokenId":"E7Y8R2K2D4T6K4U8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:22.696923+05:30
+@ For User: 2018122003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Krishna Kumar Maram","_updateTokenId":"N5R2S5M2B7A1N8Y7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:23.890154+05:30
+@ For User: 2018122004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shivani Chepuri","_updateTokenId":"I1B2J8C3L8Q4L4N5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:24.987354+05:30
+@ For User: 2018122005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ritvik Agrawal","_updateTokenId":"C0Q4U5H3R2T7G3R3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:26.029025+05:30
+@ For User: 2018122006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sai Siddharth Duvvada","_updateTokenId":"M3H2G7J1G8F8H3L4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:27.062527+05:30
+@ For User: 2018122007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Deeksha Devendra","_updateTokenId":"S2F1F0R6L2W0V2J0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:28.259931+05:30
+@ For User: 2018122008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Niharika Vadlamudi","_updateTokenId":"E1B6X6C2E7R0L4C6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:29.330640+05:30
+@ For User: 2018122009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shirish Chandra Srivastava","_updateTokenId":"S4A8M7U3A5H6V1D4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:30.346314+05:30
+@ For User: 2018122010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Rajashekar Reddy Chinthalapani","_updateTokenId":"H2H1O0K6T0U6H0M4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:12:31.637960+05:30
+@ For User: 2018122011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2018122011
+~~ Directory Deleted: 2018122011
+
+$ Scraping started at IST:2021-10-13 02:12:31.939440+05:30
+@ For User: 2018122012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2018122012
+~~ Directory Deleted: 2018122012
+
+# Log File Closed at: 2021-10-13 02:12:32.229626+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:14:37.072962+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:14:37.073964+05:30
+@ For User: 2018121001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Samanvaya Panda","_updateTokenId":"Y6O4K6B7M0N5M8Y3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:14:38.083250+05:30
+@ For User: 2018121002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Athreya Chandramouli","_updateTokenId":"F2T2V3N2L8O6F1H5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:14:39.143137+05:30
+@ For User: 2018121003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhinav Vaishya","_updateTokenId":"T3S4J8U2I4X0B1F6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:14:40.262842+05:30
+@ For User: 2018121004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Anurag Sahu","_updateTokenId":"V2A2C3P1R4N2E7L8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:14:41.283832+05:30
+@ For User: 2018121005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"S V Samhita Kanaparthy","_updateTokenId":"K5S2T5F0K2N4C5E4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:14:42.379737+05:30
+@ For User: 2018121006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2018121006
+~~ Directory Deleted: 2018121006
+
+$ Scraping started at IST:2021-10-13 02:14:42.660791+05:30
+@ For User: 2018121007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2018121007
+~~ Directory Deleted: 2018121007
+
+$ Scraping started at IST:2021-10-13 02:14:42.963737+05:30
+@ For User: 2018121008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2018121008
+~~ Directory Deleted: 2018121008
+
+# Log File Closed at: 2021-10-13 02:14:43.251211+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:16:33.688666+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:16:33.690668+05:30
+@ For User: 2017121001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121001
+~~ Directory Deleted: 2017121001
+
+$ Scraping started at IST:2021-10-13 02:16:33.993254+05:30
+@ For User: 2017121002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121002
+~~ Directory Deleted: 2017121002
+
+$ Scraping started at IST:2021-10-13 02:16:34.329458+05:30
+@ For User: 2017121003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121003
+~~ Directory Deleted: 2017121003
+
+$ Scraping started at IST:2021-10-13 02:16:34.612536+05:30
+@ For User: 2017121004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121004
+~~ Directory Deleted: 2017121004
+
+$ Scraping started at IST:2021-10-13 02:16:34.903805+05:30
+@ For User: 2017121005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121005
+~~ Directory Deleted: 2017121005
+
+$ Scraping started at IST:2021-10-13 02:16:35.204192+05:30
+@ For User: 2017121006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121006
+~~ Directory Deleted: 2017121006
+
+$ Scraping started at IST:2021-10-13 02:16:35.508278+05:30
+@ For User: 2017121007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121007
+~~ Directory Deleted: 2017121007
+
+$ Scraping started at IST:2021-10-13 02:16:35.808275+05:30
+@ For User: 2017121008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2017121008
+~~ Directory Deleted: 2017121008
+
+# Log File Closed at: 2021-10-13 02:16:37.128089+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:17:25.950099+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:17:25.950099+05:30
+@ For User: 2019121001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vipul Chhabra","_updateTokenId":"F8T8B0C0T7C3H1A0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:26.899136+05:30
+@ For User: 2019121002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aryamaan Jain","_updateTokenId":"V6G6N7S2V0K7R6F1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:27.806181+05:30
+@ For User: 2019121003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Anurag Reddy Muthyala","_updateTokenId":"J6S0U5N2R5T7X8F0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:28.750848+05:30
+@ For User: 2019121004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Avani Gupta","_updateTokenId":"L3J1N6O6D2I1I1A7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:29.895584+05:30
+@ For User: 2019121005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Archit Goyal","_updateTokenId":"Y8E7M8X7X7Q0O0H6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:30.861032+05:30
+@ For User: 2019121006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Bharathi Joshi","_updateTokenId":"A6M4C8J0K8F2S7I8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:31.913695+05:30
+@ For User: 2019121007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Rishav Kundu","_updateTokenId":"L7E6L8T8Q1R3M2R0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:32.897688+05:30
+@ For User: 2019121008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Khadiravana Belagavi","_updateTokenId":"N1R4X3C5H3F6I8T1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:33.868964+05:30
+@ For User: 2019121009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayan Biswas","_updateTokenId":"D1D3M5N5M7D0Q1G8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:17:34.835602+05:30
+@ For User: 2019121010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aman Kumar Kashyap","_updateTokenId":"I6Y0V1U3X7L6T0N0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+# Log File Closed at: 2021-10-13 02:17:35.826169+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:18:21.587206+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:18:21.587206+05:30
+@ For User: 2019121010
+%!User directory already exists
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aman Kumar Kashyap","_updateTokenId":"J7D6D1J2N5S3N8D7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:18:22.470736+05:30
+@ For User: 2019121011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Varun Chhangani","_updateTokenId":"B2L4T4E2O1I3N2L5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:18:23.413241+05:30
+@ For User: 2019121012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Apoorva Thirupathi Venkata Kowkuntla","_updateTokenId":"G2V5W2L5O5G7Y7Y6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:18:24.388654+05:30
+@ For User: 2019121013
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121013
+~~ Directory Deleted: 2019121013
+
+$ Scraping started at IST:2021-10-13 02:18:24.711838+05:30
+@ For User: 2019121014
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121014
+~~ Directory Deleted: 2019121014
+
+$ Scraping started at IST:2021-10-13 02:18:25.018837+05:30
+@ For User: 2019121015
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121015
+~~ Directory Deleted: 2019121015
+
+$ Scraping started at IST:2021-10-13 02:18:25.325840+05:30
+@ For User: 2019121016
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121016
+~~ Directory Deleted: 2019121016
+
+$ Scraping started at IST:2021-10-13 02:18:25.618975+05:30
+@ For User: 2019121017
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121017
+~~ Directory Deleted: 2019121017
+
+$ Scraping started at IST:2021-10-13 02:18:25.934386+05:30
+@ For User: 2019121018
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121018
+~~ Directory Deleted: 2019121018
+
+$ Scraping started at IST:2021-10-13 02:18:26.223578+05:30
+@ For User: 2019121019
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121019
+~~ Directory Deleted: 2019121019
+
+$ Scraping started at IST:2021-10-13 02:18:26.532589+05:30
+@ For User: 2019121020
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019121020
+~~ Directory Deleted: 2019121020
+
+# Log File Closed at: 2021-10-13 02:18:26.840735+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:18:52.389424+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+# Log File Closed at: 2021-10-13 02:18:52.389424+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:19:49.477038+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:19:49.479038+05:30
+@ For User: 2019122001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shreya Malkurthi","_updateTokenId":"Y8M4C8Q3E3L4P0M2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:19:50.530612+05:30
+@ For User: 2019122002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhinav Vajrala","_updateTokenId":"L6T5N8S8M2U6G8F1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:19:51.477945+05:30
+@ For User: 2019122003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122003
+~~ Directory Deleted: 2019122003
+
+$ Scraping started at IST:2021-10-13 02:19:51.780115+05:30
+@ For User: 2019122004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122004
+~~ Directory Deleted: 2019122004
+
+$ Scraping started at IST:2021-10-13 02:19:52.086440+05:30
+@ For User: 2019122005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122005
+~~ Directory Deleted: 2019122005
+
+$ Scraping started at IST:2021-10-13 02:19:52.370448+05:30
+@ For User: 2019122006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122006
+~~ Directory Deleted: 2019122006
+
+$ Scraping started at IST:2021-10-13 02:19:52.660557+05:30
+@ For User: 2019122007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122007
+~~ Directory Deleted: 2019122007
+
+$ Scraping started at IST:2021-10-13 02:19:52.956286+05:30
+@ For User: 2019122008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122008
+~~ Directory Deleted: 2019122008
+
+$ Scraping started at IST:2021-10-13 02:19:53.258784+05:30
+@ For User: 2019122009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122009
+~~ Directory Deleted: 2019122009
+
+$ Scraping started at IST:2021-10-13 02:19:53.568886+05:30
+@ For User: 2019122010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2019122010
+~~ Directory Deleted: 2019122010
+
+# Log File Closed at: 2021-10-13 02:19:53.855358+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:20:11.527124+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:20:11.528109+05:30
+@ For User: 2020122001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayush Lall","_updateTokenId":"A3R7W6F3S6W5D3I6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:12.417974+05:30
+@ For User: 2020122002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Yash Motwani","_updateTokenId":"M8B6H4G2M1O1S2F2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:13.331454+05:30
+@ For User: 2020122003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Bharadwaj S","_updateTokenId":"O0F8O1Y4W4D3O6H1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:14.340880+05:30
+@ For User: 2020122004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Kirthi Vignan Yellakonda","_updateTokenId":"S3V5K6N3V5F1P4O4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:15.368067+05:30
+@ For User: 2020122005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122005
+~~ Directory Deleted: 2020122005
+
+$ Scraping started at IST:2021-10-13 02:20:15.660946+05:30
+@ For User: 2020122006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122006
+~~ Directory Deleted: 2020122006
+
+$ Scraping started at IST:2021-10-13 02:20:15.977020+05:30
+@ For User: 2020122007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122007
+~~ Directory Deleted: 2020122007
+
+$ Scraping started at IST:2021-10-13 02:20:16.277987+05:30
+@ For User: 2020122008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122008
+~~ Directory Deleted: 2020122008
+
+$ Scraping started at IST:2021-10-13 02:20:16.573996+05:30
+@ For User: 2020122009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122009
+~~ Directory Deleted: 2020122009
+
+$ Scraping started at IST:2021-10-13 02:20:16.869871+05:30
+@ For User: 2020122010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020122010
+~~ Directory Deleted: 2020122010
+
+# Log File Closed at: 2021-10-13 02:20:17.165399+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:20:24.770808+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:20:24.772809+05:30
+@ For User: 2020121001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vjs Pranavasri","_updateTokenId":"S3E0Q2F1P4P8V3O1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:25.761077+05:30
+@ For User: 2020121002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pratishtha Abrol","_updateTokenId":"E8S0V0A6J6L6G7R4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:26.713081+05:30
+@ For User: 2020121003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Snehal Ranjan","_updateTokenId":"P8E0E7G0P0X3O5T5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:27.649736+05:30
+@ For User: 2020121004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pranav Subramaniam","_updateTokenId":"E2V3D2C3U7S4V3B1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:28.640616+05:30
+@ For User: 2020121005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Jaya Bharat Reddy Buchupalle","_updateTokenId":"I3A1O7F8I3R0B3W5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:29.521645+05:30
+@ For User: 2020121006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aman Atman","_updateTokenId":"K5Q6C8K6K1E7E6Q7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:30.420233+05:30
+@ For User: 2020121007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayushman Panda","_updateTokenId":"I8T5O3R8C4S7L2D2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:31.322855+05:30
+@ For User: 2020121008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shlok Pandey","_updateTokenId":"O6X0R3T2F1K5G2Q6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:32.273458+05:30
+@ For User: 2020121009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aditya Kadam","_updateTokenId":"O2J3D8C3D2H0J8Q6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:33.166994+05:30
+@ For User: 2020121010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aditya Hari Kancharla","_updateTokenId":"G2X7E7R0G7D7W1I2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+# Log File Closed at: 2021-10-13 02:20:34.088085+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:20:50.143033+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:20:50.143033+05:30
+@ For User: 2020121010
+%!User directory already exists
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aditya Hari Kancharla","_updateTokenId":"Y1S5P3X8Q6B8V6Q5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:51.057557+05:30
+@ For User: 2020121011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"P Sahithi Reddy","_updateTokenId":"C8Q3Q1V0D8K5F5E0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:51.962450+05:30
+@ For User: 2020121012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Prince Varshney","_updateTokenId":"W8L3Y7E8Y7E7M3K0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:20:52.885187+05:30
+@ For User: 2020121013
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121013
+~~ Directory Deleted: 2020121013
+
+$ Scraping started at IST:2021-10-13 02:20:53.171186+05:30
+@ For User: 2020121014
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121014
+~~ Directory Deleted: 2020121014
+
+$ Scraping started at IST:2021-10-13 02:20:53.483746+05:30
+@ For User: 2020121015
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121015
+~~ Directory Deleted: 2020121015
+
+$ Scraping started at IST:2021-10-13 02:20:53.789566+05:30
+@ For User: 2020121016
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121016
+~~ Directory Deleted: 2020121016
+
+$ Scraping started at IST:2021-10-13 02:20:54.104335+05:30
+@ For User: 2020121017
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121017
+~~ Directory Deleted: 2020121017
+
+$ Scraping started at IST:2021-10-13 02:20:54.393096+05:30
+@ For User: 2020121018
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121018
+~~ Directory Deleted: 2020121018
+
+$ Scraping started at IST:2021-10-13 02:20:54.697416+05:30
+@ For User: 2020121019
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121019
+~~ Directory Deleted: 2020121019
+
+$ Scraping started at IST:2021-10-13 02:20:55.017734+05:30
+@ For User: 2020121020
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020121020
+~~ Directory Deleted: 2020121020
+
+# Log File Closed at: 2021-10-13 02:20:55.310812+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:21:58.820493+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+# Log File Closed at: 2021-10-13 02:21:58.821961+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:22:15.105702+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:22:15.106863+05:30
+@ For User: 2021121001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Debanil Chowdhury","_updateTokenId":"W5A3T4S0N0U0H6L6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:16.142760+05:30
+@ For User: 2021121002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Priyanshul Govil","_updateTokenId":"H7E0G3O7R0E7P7L4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:17.076104+05:30
+@ For User: 2021121003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Manav Chaudhary","_updateTokenId":"F2H5B3B3O3N8K0I4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:18.037563+05:30
+@ For User: 2021121004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Surabhi Jain","_updateTokenId":"G8G3R6S1V3K1F6G4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:18.973284+05:30
+@ For User: 2021121005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"P Shiridi Kumar","_updateTokenId":"J8O1Q3W2V5K3R8I0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:19.964313+05:30
+@ For User: 2021121006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"George Paul","_updateTokenId":"J7W1J2V7V0V8O5E4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:21.007380+05:30
+@ For User: 2021121007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aparna Agrawal","_updateTokenId":"C6V4F5F6N2A4T3Y5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:22.013930+05:30
+@ For User: 2021121008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Neeraj Veerla","_updateTokenId":"Y5F3W7G6K6E5K3I3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:22.981900+05:30
+@ For User: 2021121009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shreya Patil","_updateTokenId":"T4F1P8V0A8Q8B4Y4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:25.876322+05:30
+@ For User: 2021121010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shikhar Saxena","_updateTokenId":"R8D2O3I1H2N2V4U1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:26.892682+05:30
+@ For User: 2021121011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Amal Sunny","_updateTokenId":"C8D0K6C4G5M7R8D8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:27.938642+05:30
+@ For User: 2021121012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Adhiraj Deshmukh","_updateTokenId":"V0M0F2A2A0I7O0I6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:22:28.968674+05:30
+@ For User: 2021121013
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121013
+~~ Directory Deleted: 2021121013
+
+$ Scraping started at IST:2021-10-13 02:22:29.272236+05:30
+@ For User: 2021121014
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121014
+~~ Directory Deleted: 2021121014
+
+$ Scraping started at IST:2021-10-13 02:22:29.579604+05:30
+@ For User: 2021121015
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121015
+~~ Directory Deleted: 2021121015
+
+$ Scraping started at IST:2021-10-13 02:22:29.916472+05:30
+@ For User: 2021121016
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121016
+~~ Directory Deleted: 2021121016
+
+$ Scraping started at IST:2021-10-13 02:22:30.258280+05:30
+@ For User: 2021121017
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121017
+~~ Directory Deleted: 2021121017
+
+$ Scraping started at IST:2021-10-13 02:22:30.617384+05:30
+@ For User: 2021121018
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121018
+~~ Directory Deleted: 2021121018
+
+$ Scraping started at IST:2021-10-13 02:22:30.942254+05:30
+@ For User: 2021121019
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121019
+~~ Directory Deleted: 2021121019
+
+$ Scraping started at IST:2021-10-13 02:22:31.801161+05:30
+@ For User: 2021121020
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021121020
+~~ Directory Deleted: 2021121020
+
+# Log File Closed at: 2021-10-13 02:22:32.106460+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:26:19.435746+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:26:19.436621+05:30
+@ For User: 2021122001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pulapa Prudhvi","_updateTokenId":"T6P6M1W5N2Y3B7I6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:20.583282+05:30
+@ For User: 2021122002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sarat Chandra Yellapragada","_updateTokenId":"N6B7V6S0N0M7H5R5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:21.908900+05:30
+@ For User: 2021122003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Satla Shashank","_updateTokenId":"Q8J0F3H4V7U3J2M2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:22.906465+05:30
+@ For User: 2021122004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Chirag Jain","_updateTokenId":"K3D6A8Y0Q4R3N2N0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:24.047617+05:30
+@ For User: 2021122005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pidugu Vamsi","_updateTokenId":"F8B6A7O4K2I3H8A2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:25.304134+05:30
+@ For User: 2021122006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pavan Kumar Kondooru","_updateTokenId":"H7I6C1D5L2D7G7A8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:26.483379+05:30
+@ For User: 2021122007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Guneesh Vats","_updateTokenId":"K4O4O4D0O6G5B1O8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:26:27.581168+05:30
+@ For User: 2021122008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122008
+~~ Directory Deleted: 2021122008
+
+$ Scraping started at IST:2021-10-13 02:26:28.047815+05:30
+@ For User: 2021122009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122009
+~~ Directory Deleted: 2021122009
+
+$ Scraping started at IST:2021-10-13 02:26:28.482552+05:30
+@ For User: 2021122010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122010
+~~ Directory Deleted: 2021122010
+
+$ Scraping started at IST:2021-10-13 02:26:28.836508+05:30
+@ For User: 2021122011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122011
+~~ Directory Deleted: 2021122011
+
+$ Scraping started at IST:2021-10-13 02:26:29.143214+05:30
+@ For User: 2021122012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122012
+~~ Directory Deleted: 2021122012
+
+$ Scraping started at IST:2021-10-13 02:26:29.501667+05:30
+@ For User: 2021122013
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122013
+~~ Directory Deleted: 2021122013
+
+$ Scraping started at IST:2021-10-13 02:26:29.845671+05:30
+@ For User: 2021122014
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122014
+~~ Directory Deleted: 2021122014
+
+$ Scraping started at IST:2021-10-13 02:26:30.143347+05:30
+@ For User: 2021122015
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122015
+~~ Directory Deleted: 2021122015
+
+$ Scraping started at IST:2021-10-13 02:26:30.471027+05:30
+@ For User: 2021122016
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122016
+~~ Directory Deleted: 2021122016
+
+$ Scraping started at IST:2021-10-13 02:26:30.869190+05:30
+@ For User: 2021122017
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122017
+~~ Directory Deleted: 2021122017
+
+$ Scraping started at IST:2021-10-13 02:26:31.184496+05:30
+@ For User: 2021122018
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122018
+~~ Directory Deleted: 2021122018
+
+$ Scraping started at IST:2021-10-13 02:26:31.651392+05:30
+@ For User: 2021122019
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122019
+~~ Directory Deleted: 2021122019
+
+$ Scraping started at IST:2021-10-13 02:26:31.998238+05:30
+@ For User: 2021122020
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2021122020
+~~ Directory Deleted: 2021122020
+
+# Log File Closed at: 2021-10-13 02:26:32.327740+05:30
+
+-------------------------------------------------------------------------------
+# Log File Opened at: 2021-10-13 02:34:53.826860+05:30
+*!Data directory already exists
+-------------------------------------------------------------------------------
+
+
+$ Scraping started at IST:2021-10-13 02:34:53.828854+05:30
+@ For User: 2020201001
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shivam Rai","_updateTokenId":"S3W2B3F3E0R7P7X3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:34:54.819250+05:30
+@ For User: 2020201002
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"Membership is cancelled by library","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201002
+~~ Directory Deleted: 2020201002
+
+$ Scraping started at IST:2021-10-13 02:34:55.239108+05:30
+@ For User: 2020201003
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sushant Kumar","_updateTokenId":"L3T6Q5D1I3M3D4V2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:34:56.200333+05:30
+@ For User: 2020201004
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sailee Shingane","_updateTokenId":"C8L2N1I7H5L4R0Q4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:34:57.185183+05:30
+@ For User: 2020201005
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"John Mathew","_updateTokenId":"T4U0D1P6B3A6M5C2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:34:58.193436+05:30
+@ For User: 2020201006
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sanyam Jain","_updateTokenId":"B5L3I3A3X7C7I8E6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:34:59.232870+05:30
+@ For User: 2020201007
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"Membership is cancelled by library","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201007
+~~ Directory Deleted: 2020201007
+
+$ Scraping started at IST:2021-10-13 02:34:59.538780+05:30
+@ For User: 2020201008
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Anshul Kakraniya","_updateTokenId":"T4B4E3T0R3V0W6N7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:00.556303+05:30
+@ For User: 2020201009
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Piyush Atri","_updateTokenId":"M8N5S3R8C0K1M3W3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:01.637569+05:30
+@ For User: 2020201010
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Prudhvi Koppuravuri","_updateTokenId":"E0K6M8G0U0P5L4A8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:02.680925+05:30
+@ For User: 2020201011
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"N V B Dattatreya Chilukuri","_updateTokenId":"R2G2N1N1W6N7M5W0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:03.711020+05:30
+@ For User: 2020201012
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Chaitanya P","_updateTokenId":"B4R7U5Y3I0O2D5H2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:04.690452+05:30
+@ For User: 2020201013
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Yagyesh Purohit","_updateTokenId":"F2S3E2C8N0F7H6G4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:05.745524+05:30
+@ For User: 2020201014
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Mohammad Mohsin Rizvi","_updateTokenId":"M0W5V1D7M8T4C8A0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:06.826709+05:30
+@ For User: 2020201015
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"Membership is cancelled by library","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201015
+~~ Directory Deleted: 2020201015
+
+$ Scraping started at IST:2021-10-13 02:35:07.162720+05:30
+@ For User: 2020201016
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Krishna Shenvi","_updateTokenId":"I6H7H1R6C3T8S8O4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:08.672829+05:30
+@ For User: 2020201017
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Devesh Jha Jha","_updateTokenId":"M8J3S4O5G2A8I4J7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:10.557473+05:30
+@ For User: 2020201018
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"Membership is cancelled by library","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201018
+~~ Directory Deleted: 2020201018
+
+$ Scraping started at IST:2021-10-13 02:35:11.069828+05:30
+@ For User: 2020201019
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Jayant Ingle","_updateTokenId":"M2H1D5B0Q4M5Q3W6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:12.958804+05:30
+@ For User: 2020201020
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhisek Mohapatra","_updateTokenId":"G1T4R5X0U1B7C7V5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:14.507658+05:30
+@ For User: 2020201021
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pratik Nashine","_updateTokenId":"H6T1D6O7Y6C2H7V1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:16.131054+05:30
+@ For User: 2020201022
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Arvind Narayanan","_updateTokenId":"A3V0S1F4L2F3X8Q8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:19.763972+05:30
+@ For User: 2020201023
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Akshay M","_updateTokenId":"U4P4U3P4L4G2H1M6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:23.122161+05:30
+@ For User: 2020201024
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ronit Ray","_updateTokenId":"Q7H6L8N5Y5E8J3X0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:24.815007+05:30
+@ For User: 2020201025
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shubham Swetank","_updateTokenId":"M5R1Y8I1C5T8W4K8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:26.574509+05:30
+@ For User: 2020201026
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Mansi Khamkar","_updateTokenId":"D8S6O5E2A3K0O3U6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:27.666641+05:30
+@ For User: 2020201027
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Utkarsh Mk","_updateTokenId":"X7T8B5G6E8V4H5E4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:28.636878+05:30
+@ For User: 2020201028
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Paras Joshi","_updateTokenId":"O8H7Y8I4K3U6R3T1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:29.684593+05:30
+@ For User: 2020201029
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Punit Sharma","_updateTokenId":"S0L5S4O1N7L1J5N2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:30.693364+05:30
+@ For User: 2020201030
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhiram D V","_updateTokenId":"U4U8W6U4Y7O0T8C3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:31.667838+05:30
+@ For User: 2020201031
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pawan Patidar","_updateTokenId":"N8F8P2N7A2V5N5G1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:32.662588+05:30
+@ For User: 2020201032
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aravind Easwar","_updateTokenId":"W7P6V7Q0P1J0E5S8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:33.645879+05:30
+@ For User: 2020201033
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sai Navya Sree Penukonda","_updateTokenId":"P8J8D4E0K5J1H1T1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:34.672330+05:30
+@ For User: 2020201034
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aditi Aggarwal","_updateTokenId":"F0V6D5R0G7W5D4U3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:35.712161+05:30
+@ For User: 2020201035
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Satyam Singh","_updateTokenId":"U2D1D1I5C2H4Q3D5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:36.741799+05:30
+@ For User: 2020201036
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Parul Ansal","_updateTokenId":"W4A6G4O5D3O1L5O5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:37.782235+05:30
+@ For User: 2020201037
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shiv Sharma","_updateTokenId":"O3P7W3E0H8W2D2F7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:38.794650+05:30
+@ For User: 2020201038
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Devershi Chandra","_updateTokenId":"A5A4W2W6V0S8Q0R2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:39.780854+05:30
+@ For User: 2020201039
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Husain Mistry","_updateTokenId":"O5Q1H0E0W3S1D3N2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:40.742390+05:30
+@ For User: 2020201040
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vaibhav Gupta","_updateTokenId":"S2L6K2P7G5F4C1Y3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:41.718233+05:30
+@ For User: 2020201041
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aditya Rathi","_updateTokenId":"U7X6L0R5E5O7W5P6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:42.723108+05:30
+@ For User: 2020201042
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Rohith Ramesh","_updateTokenId":"R4J5N4I3E2H2O3E4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:43.717244+05:30
+@ For User: 2020201043
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ankit Parashar","_updateTokenId":"S2A7R1R2W4B4C3F3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:44.739272+05:30
+@ For User: 2020201044
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sai Sirisha Nadiminti","_updateTokenId":"A8J5T4S8S2V7U7J0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:45.735011+05:30
+@ For User: 2020201045
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aayushi Nigam","_updateTokenId":"U0C6K6K0M5M6I2J0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:46.765430+05:30
+@ For User: 2020201046
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Avi Agrawal","_updateTokenId":"O8H0A4R0M6S0P5X1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:47.854977+05:30
+@ For User: 2020201047
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shweta Arya","_updateTokenId":"R0L4X7D7U4H0P1Q8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:48.850995+05:30
+@ For User: 2020201048
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sindhu B","_updateTokenId":"D6I3U2K5B7R6J5T0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:49.864504+05:30
+@ For User: 2020201049
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Nisarg Sheth","_updateTokenId":"E8H6F3S3G2M1O8C6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:50.930152+05:30
+@ For User: 2020201050
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Akshat Gupta","_updateTokenId":"B4Y2T7F8C0D2I4Y0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:51.944053+05:30
+@ For User: 2020201051
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Akashdeep Singh","_updateTokenId":"L8U0D5N2P6L2F6M3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:53.008258+05:30
+@ For User: 2020201052
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Prakhar Tripathi","_updateTokenId":"I2W6W1L3K6Y3X6K5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:54.118417+05:30
+@ For User: 2020201053
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayushi Maheshwari","_updateTokenId":"X8Q1E7P8T5P3O5Y2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:55.132217+05:30
+@ For User: 2020201054
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Parth Arora","_updateTokenId":"C7L0D7K8S2G7P0F4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:56.185025+05:30
+@ For User: 2020201055
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Abhishek Sharma","_updateTokenId":"Q4N0V3X0Q5G0V7O0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:57.291277+05:30
+@ For User: 2020201056
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Nayanika Nayanika","_updateTokenId":"G6G4M6G8I6H6A3R3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:58.301492+05:30
+@ For User: 2020201057
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Prashant Raj","_updateTokenId":"F7I0Y3C6G2T6D5E4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:35:59.294549+05:30
+@ For User: 2020201058
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Amisha Bansal","_updateTokenId":"R1G1T3B2G8U6F2C7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:00.405932+05:30
+@ For User: 2020201059
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Devansh Dobriyal","_updateTokenId":"H2H7L8F2U1Y3D1R2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:01.466211+05:30
+@ For User: 2020201060
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Dhruv Sachdev","_updateTokenId":"M0N0A2Y5C1K5V7K8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:02.503723+05:30
+@ For User: 2020201061
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Chirag Shilwant","_updateTokenId":"E7R6C1C5I2D7G5W6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:03.560852+05:30
+@ For User: 2020201062
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Aviral Sharma","_updateTokenId":"Q6N0J2O8L6N8V8X8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:04.785831+05:30
+@ For User: 2020201063
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Adrija Chakraborty","_updateTokenId":"Q7Y2D5M7S6O7C4S8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:05.879560+05:30
+@ For User: 2020201064
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Navaneet Singh","_updateTokenId":"U8A7H7Q8I1U5T1X4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:06.947458+05:30
+@ For User: 2020201065
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Dhruv Mahajan","_updateTokenId":"Y5E8M0P4A7T8J5P5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:08.015726+05:30
+@ For User: 2020201066
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Gaddi Likhitha","_updateTokenId":"P3P7Y0I4Q2X8M4A4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:09.108126+05:30
+@ For User: 2020201067
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Mudit Bhansali","_updateTokenId":"P3W8R6I5E3I1A6C6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:10.702221+05:30
+@ For User: 2020201068
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Mahak Modani","_updateTokenId":"X8X4L0Y4R2P1P7S7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:11.908511+05:30
+@ For User: 2020201069
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Danial Kafeel","_updateTokenId":"S3X6Y1M3Q8H3B1Q3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:13.024033+05:30
+@ For User: 2020201070
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vaishali Singh","_updateTokenId":"Q8X1U4B2C1I8M7H5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:14.285375+05:30
+@ For User: 2020201071
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ritvik Garg","_updateTokenId":"L4F7Q0M2P8D0R7O0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:16.055775+05:30
+@ For User: 2020201072
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Naman Juneja","_updateTokenId":"U7X8Q8O6Y6P2N2S8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:17.102097+05:30
+@ For User: 2020201073
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Sachin Goyal","_updateTokenId":"G2L7A1H2R0J5K7W3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:18.187239+05:30
+@ For User: 2020201074
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Rishabh Malik","_updateTokenId":"V0F7E2I6K3Q7K2M5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:19.240658+05:30
+@ For User: 2020201075
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Archit Gupta","_updateTokenId":"T0T4T8D7M8L3O6Q0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:20.294350+05:30
+@ For User: 2020201076
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Chitra Kumari","_updateTokenId":"U4W0X8Q1J0B6H4V5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:21.419403+05:30
+@ For User: 2020201077
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ashutosh Ranjan","_updateTokenId":"Q1J7T3F2E7B5Q2A2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:22.427789+05:30
+@ For User: 2020201078
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Arpit Maheshwari","_updateTokenId":"V4W0D8R6A1F1V4E3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:23.535572+05:30
+@ For User: 2020201079
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Varun Nambigari Raghoba","_updateTokenId":"U8X2I1C6A3A5R1C6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:24.712445+05:30
+@ For User: 2020201080
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Naman Jain","_updateTokenId":"O8M6L0H4X4M8A5L4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:25.791342+05:30
+@ For User: 2020201081
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Tushar Bhatt","_updateTokenId":"N7L7W2M3C7H3V5X3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:26.860614+05:30
+@ For User: 2020201082
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vishal Patel","_updateTokenId":"A8W2A8K8D5J3M2M8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:28.717023+05:30
+@ For User: 2020201083
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Pujanbhai Ghelani","_updateTokenId":"Q2Q2Q3O6A3G8G7M0"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:30.192846+05:30
+@ For User: 2020201084
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Dipankar Saha","_updateTokenId":"O2W8P2R7W4H6P5S8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:31.237680+05:30
+@ For User: 2020201085
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Darshit Khant","_updateTokenId":"P5M4P3E2L1P5Q1S8"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:32.287251+05:30
+@ For User: 2020201086
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Trisha Gupta","_updateTokenId":"Y3M8Q8B0N7X3N1I4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:33.418758+05:30
+@ For User: 2020201087
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayush Rai","_updateTokenId":"N3A6B3G2N0P3Y1K4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:34.453301+05:30
+@ For User: 2020201088
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Ayush Khasgiwala","_updateTokenId":"Q4C4Q6R6B5L0H3N7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:35.484952+05:30
+@ For User: 2020201089
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Janmejay Baghel","_updateTokenId":"D8E6K5U5Y3W7H7F1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:36.599977+05:30
+@ For User: 2020201090
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Vinaya Bachu","_updateTokenId":"I8R7L6C0D7U8S0G4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:37.647777+05:30
+@ For User: 2020201091
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Stuti Saxena","_updateTokenId":"X3P3O5W5F7O6U3R2"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:38.672288+05:30
+@ For User: 2020201092
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Somya Lalwani","_updateTokenId":"G5V0D0O7K2P5T0A6"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:39.728016+05:30
+@ For User: 2020201093
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Agrima Singh","_updateTokenId":"F2O7V6A7F2D0T8J3"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:40.885915+05:30
+@ For User: 2020201094
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Mohit Manwani","_updateTokenId":"Q4L8T1V6B3D2G5V7"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:41.952111+05:30
+@ For User: 2020201095
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Neha Agarwal","_updateTokenId":"B1U6R0G0E2D2H7I1"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:42.966173+05:30
+@ For User: 2020201096
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Shivam Puri","_updateTokenId":"V5V6B8R4C6A7S2Y4"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:44.027433+05:30
+@ For User: 2020201097
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"Membership is cancelled by library","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201097
+~~ Directory Deleted: 2020201097
+
+$ Scraping started at IST:2021-10-13 02:36:44.333195+05:30
+@ For User: 2020201098
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Raman Shukla","_updateTokenId":"C4K0P0H5B0S6P3J5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:45.441912+05:30
+@ For User: 2020201099
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_showAlert":false,"_redirectUrl":"/search/search.html","_payFine":false,"_siteId":"1","_loggedInReq":false,"_urlForGateWay":"https://auto.iitg.ernet.in/epay/index.jsp","_memberName":"Anchal Soni","_updateTokenId":"M5G7X5L7U7E4V6W5"}
+->Book History visit <Response [200]>
+->Fine Log History visit <Response [200]>
+->Profile visit <Response [200]>
+->Login History visit <Response [200]>
+->Book Cart visit <Response [200]>
+->Reservations visit <Response [200]>
+->Checkout visit <Response [200]>
+->Book History written
+->Fine Log History written
+->Profile written
+->Login History written
+->Book Cart written
+->Reservations written
+->Checkout written
+
+$ Scraping started at IST:2021-10-13 02:36:46.449399+05:30
+@ For User: 2020201100
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201100
+~~ Directory Deleted: 2020201100
+
+$ Scraping started at IST:2021-10-13 02:36:46.794836+05:30
+@ For User: 2020201101
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201101
+~~ Directory Deleted: 2020201101
+
+$ Scraping started at IST:2021-10-13 02:36:47.114443+05:30
+@ For User: 2020201102
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201102
+~~ Directory Deleted: 2020201102
+
+$ Scraping started at IST:2021-10-13 02:36:47.470937+05:30
+@ For User: 2020201103
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201103
+~~ Directory Deleted: 2020201103
+
+$ Scraping started at IST:2021-10-13 02:36:47.879060+05:30
+@ For User: 2020201104
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201104
+~~ Directory Deleted: 2020201104
+
+$ Scraping started at IST:2021-10-13 02:36:48.260121+05:30
+@ For User: 2020201105
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201105
+~~ Directory Deleted: 2020201105
+
+$ Scraping started at IST:2021-10-13 02:36:48.567929+05:30
+@ For User: 2020201106
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201106
+~~ Directory Deleted: 2020201106
+
+$ Scraping started at IST:2021-10-13 02:36:48.876177+05:30
+@ For User: 2020201107
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201107
+~~ Directory Deleted: 2020201107
+
+$ Scraping started at IST:2021-10-13 02:36:49.188332+05:30
+@ For User: 2020201108
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201108
+~~ Directory Deleted: 2020201108
+
+$ Scraping started at IST:2021-10-13 02:36:49.504661+05:30
+@ For User: 2020201109
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201109
+~~ Directory Deleted: 2020201109
+
+$ Scraping started at IST:2021-10-13 02:36:49.820519+05:30
+@ For User: 2020201110
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201110
+~~ Directory Deleted: 2020201110
+
+$ Scraping started at IST:2021-10-13 02:36:50.124959+05:30
+@ For User: 2020201111
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201111
+~~ Directory Deleted: 2020201111
+
+$ Scraping started at IST:2021-10-13 02:36:50.431050+05:30
+@ For User: 2020201112
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201112
+~~ Directory Deleted: 2020201112
+
+$ Scraping started at IST:2021-10-13 02:36:50.742502+05:30
+@ For User: 2020201113
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201113
+~~ Directory Deleted: 2020201113
+
+$ Scraping started at IST:2021-10-13 02:36:51.047364+05:30
+@ For User: 2020201114
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201114
+~~ Directory Deleted: 2020201114
+
+$ Scraping started at IST:2021-10-13 02:36:51.360985+05:30
+@ For User: 2020201115
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201115
+~~ Directory Deleted: 2020201115
+
+$ Scraping started at IST:2021-10-13 02:36:51.663876+05:30
+@ For User: 2020201116
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201116
+~~ Directory Deleted: 2020201116
+
+$ Scraping started at IST:2021-10-13 02:36:52.016667+05:30
+@ For User: 2020201117
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201117
+~~ Directory Deleted: 2020201117
+
+$ Scraping started at IST:2021-10-13 02:36:52.336447+05:30
+@ For User: 2020201118
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201118
+~~ Directory Deleted: 2020201118
+
+$ Scraping started at IST:2021-10-13 02:36:52.643797+05:30
+@ For User: 2020201119
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201119
+~~ Directory Deleted: 2020201119
+
+$ Scraping started at IST:2021-10-13 02:36:52.957366+05:30
+@ For User: 2020201120
+% User directory CREATED
+->Visiting OPAC to set cookies <Response [200]>
+->login response
+{"_loginError":"INVALID USER ID","_loggedInReq":false}
+!-WARNING:invalid userID or user does not exist
+~~ UID Invalid, Deleting Directory for: 2020201120
+~~ Directory Deleted: 2020201120
+
+# Log File Closed at: 2021-10-13 02:36:53.262465+05:30
+
+-------------------------------------------------------------------------------

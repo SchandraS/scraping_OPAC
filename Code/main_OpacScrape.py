@@ -17,12 +17,9 @@ if __name__ == "__main__" :
 	# Creating Data Directory
 	scrp.CreateData_dir()
 
-	#Open Log file
-	scrp.scplg.openLog()
-
 	#UID setup
-	UID_start = 2018122001 #first roll number
-	UID_end   = 2018122012 #last roll number
+	UID_start = 2020201001 #first roll number
+	UID_end   = 2020201120 #last roll number
 	
 	#UID Range
 	UID_range = range(UID_start,UID_end+1)
@@ -33,7 +30,7 @@ if __name__ == "__main__" :
 		status_Scrape = scrp.ScrapeUserData(str(UID))
 
 		if status_Scrape == scrp.err.SITE_DOWN: #if website is down
-			print("!!!Terminal Message: Website is Down")
+			print("!==Terminal Message: Website is Down")
 			break
 		elif status_Scrape == scrp.err.INVALID_UID : #Invalid User ID, delete directory
 			scrp.DeleteUser_dir(UID)

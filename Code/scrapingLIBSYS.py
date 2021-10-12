@@ -31,10 +31,15 @@ import ScrapeLogger as scplg
 def CreateData_dir():# Setup Directory to Store Scrapped Data from website
 	if not os.path.isdir(headerVar.dataPath):#creating directory for Data
 		os.mkdir(headerVar.dataPath)
-		print("Data Directory created\n\n")
+		scplg.openLog() #open/initialize logger to start logging messages
+		print("* Data Directory created\n\n")
 		return 0
 	else : #print it already exists
-		print("Data directory already exists\n\n")
+		scplg.openLog() #open/initialize logger to start logging messages
+		print("*!Data directory already exists")
+		#Print Scraping-Run Seperator for LOG FILE
+		print("\n----------------------------------------------\
+---------------------------------\n\n")
 		return 1
 
 
@@ -43,7 +48,7 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 	print("~~ UID Invalid, Deleting Directory for: " + str(UID) +'\n') #Log & Print
 	UID_dir = os.path.join(headerVar.dataPath, str(UID)) #Path to UID directory
 	shutil.rmtree(UID_dir, ignore_errors = False) #Delete Directory and FIles
-	print("~~ Directory Deleted:" + str(UID) +'\n') #Log & Print #Directory Deleted
+	print("~~ Directory Deleted: " + str(UID) +'\n') #Log & Print #Directory Deleted
 	return 0
 
 
@@ -51,7 +56,7 @@ def DeleteUser_dir(UID): # Delete the Given User's directory
 def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 
 	#Printing time of start
-	print("#Scraping started at IST:" + str(scplg.getTime()) + "\nFor User: " + str(UsrID) +'\n')
+	print("\n$ Scraping started at IST:" + str(scplg.getTime()) + "\n@ For User: " + str(UsrID) +'\n')
 	
 	#username & password variable (run on a loop)
 	username = password = UsrID #'2018122009'
@@ -73,8 +78,9 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
 	try: #create directory for Current User
 		os.mkdir(userPath)
+		print("% User directory CREATED\n")
 	except:
-		print("User directory already exists\n")
+		print("%!User directory already exists\n")
 	
 	
 	#% Login & Scraping
@@ -84,7 +90,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			r0 = s.get(headerVar.LIBSyURL)
 			print("->Visiting OPAC to set cookies " + str(r0) + '\n')
 		except : #not able to visit page.
-			print("!Error: Not able to visit OPAC, VPN not connected or site down\n")
+			print("!!Error:Not able to visit OPAC, VPN not connected or site down\n")
 			return  err.SITE_DOWN #break over here and exit
 
 
@@ -92,10 +98,10 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			r1 = s.post(headerVar.loginurl,data=payload)
 			print("->login response\n" + r1.text + '\n')
 			if "_loginError" in r1.text:
-				print("!WARNING:invalid userID or user does not exist\n")
+				print("!-WARNING:invalid userID or user does not exist\n")
 				return err.INVALID_UID #break from here
 		except : #Not able to Connect
-			print("->not able to post to server\n")
+			print("!!ERROR:Not able to post to server\n")
 			return err.SERVER_POSTREQ_DOWN
 
 	
@@ -122,7 +128,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			r_Checkout = s.get(headerVar.url_Checkout)
 			print("->Checkout visit " + str(r_Checkout) + '\n')
 		except: #not able to fetch it
-			print("!ERROR:Not able to fetch data form Data Pages on OPAC\n")
+			print("!!ERROR:Not able to fetch data form Data Pages on OPAC\n")
 	
 	
 	#% Save Data in File.
@@ -155,4 +161,4 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 				Checkout.write(r_Checkout.text)
 				print("->Checkout written\n")
 		except: #Was not Able to write Data to file
-			print("!ERROR: Not able to write DATA to file\n")
+			print("!!ERROR: Not able to write DATA to file\n")
