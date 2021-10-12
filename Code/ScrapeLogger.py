@@ -10,7 +10,7 @@ import datetime # for adding time
 import pytz # for timezone()
 
 
-# log = 0
+log = 0
 
 
 def getTime(): # function to get current time in IST
@@ -32,8 +32,11 @@ def piper(S): #Prints the output to log file & stdout(terminal)
 def closeLog(): #Closing Log File
 	global log
 	piper("\n#Log File Closed at:" + str(getTime()) + "\n\n")
-	log.close()
-	print("\n\n!!!Log file closed {Message after running log.close()}")
+	try : # to close the file
+		log.close()
+		print("\n\n!!!Log file closed {Message after running log.close()}")
+	except: #not able to close
+		print("\n\n!!!Log file NOT closed {Message after running log.close()}")
 
 #set print commands in scrapingLIBSYS to use piper()
 # scrp.print = piper
