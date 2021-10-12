@@ -42,9 +42,15 @@ if __name__ == "__main__" : # Main Function
 
 		#Scraping Data for UID
 		status_Scrape = scrp.ScrapeUserData(str(UID))
-		if status_Scrape == err.SITE_DOWN:
+
+		if status_Scrape == err.SITE_DOWN: #if website is down
 			print("!!!Terminal Message: Website is Down")
 			break
+		elif status_Scrape == err.INVALID_UID : #Invalid User ID
+			piper("~~ UID Invalid, Deleting Directory for" + str(UID)) #Log & Print
+			pass #Delete The directory
+			piper("~~ Directory Deleted:" + str(UID)) #Log & Print #Directory Deleted
+
 
 
 	#Closing Log File
