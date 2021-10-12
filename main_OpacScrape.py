@@ -19,9 +19,12 @@ def piper(S): #Pipes the output two file
 	log.write(S)
 	print(S)
 
+
+scrp.print = piper
+
 if __name__ == "__main__" : # Main Function
 	scrp.CreateData_dir() # Creating Directory
-	print("\nhello2")
-	piper("\nhello5")
+	#print("\nhello2")
+	#piper("\nhello5")
 	log.close()
 	f.close()
