@@ -60,7 +60,7 @@ if __name__ == "__main__" :
 			pass
 
 
-	#Closing Log File
-	piper("\n#Log File Closed at:" + str(getTime()) + "\n\n")
-	log.close()
-	print("\n\n!!!Log file closed {Message after running log.close()}")
+# 	#Closing Log File
+# 	piper("\n#Log File Closed at: " + str(getTime()) + "\n\n")
+# 	log.close()
+# 	print("\n\n!!!Log file closed {Message after running log.close()}")
