@@ -34,7 +34,9 @@ if __name__ == "__main__" :
 			print("!==Terminal Message: Website is Down")
 			break
 		elif status_Scrape == scrp.err.INVALID_UID : #Invalid User ID, delete directory
-			scrp.DeleteUser_dir(UID)
+			#scrp.DeleteUser_dir(UID)
+			print("!==Terminal Message: INVALID UID")
+			pass
 
 	#Closing Log File
 	scrp.scplg.closeLog()

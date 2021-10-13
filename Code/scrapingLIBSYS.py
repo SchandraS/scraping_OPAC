@@ -74,13 +74,13 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 	
 
 	#% Setup Directory for Current User
-	userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
+	# userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
 	
-	try: #create directory for Current User
-		os.mkdir(userPath)
-		print("% User directory CREATED\n")
-	except:
-		print("%!User directory already exists\n")
+	# try: #create directory for Current User
+	# 	os.mkdir(userPath)
+	# 	print("% User directory CREATED\n")
+	# except:
+	# 	print("%!User directory already exists\n")
 	
 	
 	#% Login & Scraping
@@ -129,8 +129,17 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("->Checkout visit " + str(r_Checkout) + '\n')
 		except: #not able to fetch it
 			print("!!ERROR:Not able to fetch data form Data Pages on OPAC\n")
+
+
+		#% Setup Directory for Current User
+		userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
 	
-	
+		try: #create directory for Current User
+			os.mkdir(userPath)
+			print("% User directory CREATED\n")
+		except:
+			print("%!User directory already exists\n")
+
 		#% Save Data in File.
 		try: #Write data to file
 			with open(userPath + '//BookHist.html','w') as BookHist:
