@@ -18,7 +18,7 @@ if __name__ == "__main__" :
 	scrp.CreateData_dir()
 
 	#UID setup
-	UID_start = 2018009174 #first roll number
+	UID_start = 2018009728 #first roll number
 	UID_end   = 2018999999 #last roll number
 	
 	#UID Range
