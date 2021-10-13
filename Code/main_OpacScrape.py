@@ -11,14 +11,15 @@ import sys #for arguments
 
 # Main Function
 if __name__ == "__main__" :
-	arguments = str(sys.argv) #Arguments with which script is run
+
+	arguments = sys.argv #Arguments with which script is run
 	argLen = len(sys.argv) #Length of Arguments with which script is run
 
 	if argLen > 1 : # if arguments are more than 1 ie. more than file name that is run{arguments[0]}
-		UID_start = arguments[1]
-		UID_end   = arguments[2]
-		if argLen == 4 : #if argument length is 4, which means logFile's name is passed
-			scrp.headerVar.logName = arguments[3]
+		UID_start = int(arguments[1])
+		UID_end   = int(arguments[2])
+		if argLen >= 4 : #if argument length is 4, which means logFile's name is passed
+			scrp.headerVar.logName = str(arguments[3])
 
 
 	#set print commands in scrapingLIBSYS to use piper() in ScrapeLogger
@@ -27,10 +28,10 @@ if __name__ == "__main__" :
 	# Creating Data Directory
 	scrp.CreateData_dir()
 
-	#UID setup
-	UID_start = 2018009728 #first roll number
-	UID_end   = 2018999999 #last roll number
-	
+# 	#UID setup
+# 	UID_start = 2018009728 #first roll number
+# 	UID_end   = 2018999999 #last roll number
+# 	
 	#UID Range
 	UID_range = range(UID_start,UID_end+1)
 # 	UID_range = scrng.usrRange
