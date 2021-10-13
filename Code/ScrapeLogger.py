@@ -18,7 +18,7 @@ def getTime(): # function to get current time in IST
 
 def openLog():#Opening a log file
 	global log
-	log =  open(headerVar.logFile,'a') #return file variable
+	log =  open(headerVar.logFile(),'a') #return file variable
 	piper("# Log File Opened at: " + str(getTime()) + "\n")
 	return log
 
