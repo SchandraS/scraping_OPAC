@@ -11,7 +11,7 @@ http://2018122009:2018122009@10.4.20.51:8380/opac/OpacKiosk
 
 TODO:
 ok	1. turn code into fucntions and modularize it
-	2. add logging functionality     
+ok	2. add logging functionality     
 
 
 """
@@ -105,7 +105,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			return err.SERVER_POSTREQ_DOWN
 
 	
-	#% Visit Pages and Get Data
+		#% Visit Pages and Get Data
 		try: #Get the data pages from OPAC
 			r_BookHist = s.get(headerVar.url_BookIssueHistory)
 			print("->Book History visit " + str(r_BookHist) + '\n')
@@ -131,7 +131,7 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("!!ERROR:Not able to fetch data form Data Pages on OPAC\n")
 	
 	
-	#% Save Data in File.
+		#% Save Data in File.
 		try: #Write data to file
 			with open(userPath + '//BookHist.html','w') as BookHist:
 				BookHist.write(r_BookHist.text)
