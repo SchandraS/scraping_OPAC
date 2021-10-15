@@ -8,6 +8,7 @@ Created on Tue Oct 12 00:48:07 2021
 import scrapingLIBSYS as scrp
 import scrape_Range as scrng
 import sys #for arguments
+import os
 
 # Main Function
 if __name__ == "__main__" :
@@ -16,10 +17,22 @@ if __name__ == "__main__" :
 	argLen = len(sys.argv) #Length of Arguments with which script is run
 
 	if argLen > 1 : # if arguments are more than 1 ie. more than file name that is run{arguments[0]}
+		# UID Setup
 		UID_start = int(arguments[1])
 		UID_end   = int(arguments[2])
 		if argLen >= 4 : #if argument length is 4, which means logFile's name is passed
 			scrp.headerVar.logName = str(arguments[3])
+	else : #Default Range UID Setup
+		UID_start = 2020101001 #first roll number
+		UID_end   = 2020101002 #last roll number
+
+
+	# Set UID Range
+	if argLen >= 5 :  #if arguments have scrapeRange file name
+		RangeFile_path = os.path.join(scrp.headerVar.ParentDir,str(arguments[4]))
+		UID_range = scrng.getRange(RangeFile_path) #get the range iteratable
+	else : # set Uid range using the values from the shell
+		UID_range = range(UID_start,UID_end+1)
 
 
 	#set print commands in scrapingLIBSYS to use piper() in ScrapeLogger
@@ -27,14 +40,6 @@ if __name__ == "__main__" :
 
 	# Creating Data Directory
 	scrp.CreateData_dir()
-
-# 	#UID setup
-# 	UID_start = 2018009728 #first roll number
-# 	UID_end   = 2018999999 #last roll number
-# 	
-	#UID Range
-	UID_range = range(UID_start,UID_end+1)
-# 	UID_range = scrng.usrRange
 
 
 	for UID in UID_range: #Iterate though UIds

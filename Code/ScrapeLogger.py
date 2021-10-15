@@ -39,6 +39,3 @@ def closeLog(): #Closing Log File
 		print("\n\n!==Log file closed {Message after running log.close()}")
 	except: #not able to close
 		print("\n\n!==Log file NOT closed {Message after running log.close()}")
-
-#set print commands in scrapingLIBSYS to use piper()
-# scrp.print = piper
