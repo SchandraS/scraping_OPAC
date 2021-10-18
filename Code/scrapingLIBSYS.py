@@ -178,3 +178,5 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 			print("->Logout request sent response\n" + rlo.text + '\n')
 		except: #NOt able to Send logout request
 			print("!-!WARNING:Not able to send logout request\n")
+
+		return err.SCRAPE_DONE #Errors .Warning may have occured
