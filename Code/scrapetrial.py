@@ -13,7 +13,7 @@ LIBSyURL = ('http://10.4.20.51:8380/opac/')
 loginurl = ('http://10.4.20.51:8380/opac/OpacKiosk')
 secure_url = ('http://10.4.20.51:8380/opac/myaccount/myAccount.html')
 
-username = password = '2021101001'
+username = password = '2021121001'
 #password = '2018122009'
 
 
@@ -35,11 +35,13 @@ payload = {
 	'answer':''
 	}
 
+logout_payload = { '_rqst': '19'}
 
 with requests.Session() as s: #start session
 	r0 = s.get(LIBSyURL)
 	print("->Visiting OPAC to set cookies " + str(r0))
 	r1 = s.post(loginurl,data=payload)
+	print("->login req post\n" + str(r1))
 	print("->login response\n" + r1.text)
 
 # 	r3 = s.post(loginurl, data=payload2)
@@ -50,7 +52,7 @@ with requests.Session() as s: #start session
 	print("->Profile Page visit " + str(r2))
 
 	soup = BeautifulSoup(r2.content, 'html.parser')
-	#print(soup.prettify())
+# 	print(soup.prettify())
 	f = open("Profile.html",'w')
 	f.write(r2.text)
 	f.close()
@@ -58,10 +60,22 @@ with requests.Session() as s: #start session
 	r3 = s.get(url_BookIssueHistory)
 	print("->Book History visit " + str(r3))
 
-	f = open("BookHistory.html",'a')
-	print = f.write
-	f.write(r3.text)
-	print("helloe")
+# 	f = open("BookHistory.html",'a')
+# 	print = f.write
+# 	f.write(r3.text)
+# 	print("helloe")
+# 	f.close()
+
+	r4 = s.post(loginurl,data=logout_payload)
+	print("->req post\n" + str(r4))
+	print("->req post\n" + r4.text)
+
+	r2 = s.get(url_Profile)
+	print("->Profile Page visit " + str(r2))
+	soup = BeautifulSoup(r2.content, 'html.parser')
+# 	print(soup.prettify())
+	f = open("Profile2.html",'w')
+	f.write(r2.text)
 	f.close()
 
 
