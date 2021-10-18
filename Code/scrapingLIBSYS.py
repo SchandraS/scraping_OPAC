@@ -71,7 +71,8 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 		'secAuthVal':'',
 		'answer':''
 		}
-	
+
+	logout_payload = { '_rqst': '19'}
 
 	#% Setup Directory for Current User
 	# userPath = os.path.join(headerVar.dataPath,str(username)) #path for current user directory
@@ -171,3 +172,9 @@ def ScrapeUserData(UsrID):# User Payload and data Directory Setup
 				print("->Checkout written\n")
 		except: #Was not Able to write Data to file
 			print("!!ERROR: Not able to write DATA to file\n")
+
+		try: #Send logout request
+			rlo = s.post(headerVar.loginurl,data=logout_payload)
+			print("->Logout request sent response\n" + rlo.text + '\n')
+		except: #NOt able to Send logout request
+			print("!-!WARNING:Not able to send logout request\n")
