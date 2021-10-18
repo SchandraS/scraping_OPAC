@@ -40,11 +40,17 @@ if __name__ == "__main__" :
 
 	# Creating Data Directory
 	scrp.CreateData_dir()
+	count_range = 0 #initialize iterator
 
+	while count_range < len(UID_range): #Iterate though UIds
+		# Assign User ID
+		UID = UID_range[count_range]
 
-	for UID in UID_range: #Iterate though UIds
 		#Scraping Data for UID
 		status_Scrape = scrp.ScrapeUserData(str(UID))
+
+		#Increment the Iterator
+		count_range += 1
 
 		if status_Scrape == scrp.err.SITE_DOWN: #if website is down
 			print("!==Terminal Message: Website is Down")
