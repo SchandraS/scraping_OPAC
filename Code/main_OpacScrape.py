@@ -42,7 +42,7 @@ if __name__ == "__main__" :
 	scrp.CreateData_dir()
 	count_range = 0 #initialize iterator to go through UIDs
 
-	SkipNumUID = 100 #Number of UID's to be skipped
+	SkipNumUID = 1000 #Number of UID's to be skipped
 
 	#Initialize counter that counts how many time UID is invalid consecutively.
 	counter_InvalidUID = 0
