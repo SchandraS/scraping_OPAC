@@ -48,7 +48,7 @@ if __name__ == "__main__" :
 	counter_InvalidUID = 0
 
 	#Number of times the UID allowed to be invalid consecutively before skipping
-	SkipThreshold = 10
+	SkipThreshold = 5 + 1
 
 	while count_range < len(UID_range): #Iterate though UIds
 		# Assign User ID
