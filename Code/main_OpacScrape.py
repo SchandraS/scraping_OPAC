@@ -42,7 +42,7 @@ if __name__ == "__main__" :
 	scrp.CreateData_dir()
 	count_range = 0 #initialize iterator to go through UIDs
 
-	SkipNumUID = 100 #Number of UID's to be skipped
+	SkipNumUID = 1000 #Number of UID's to be skipped
 
 	#Initialize counter that counts how many time UID is invalid consecutively.
 	counter_InvalidUID = 0
@@ -69,7 +69,7 @@ if __name__ == "__main__" :
 			counter_InvalidUID += 1 #Increment number of Invalid UID counter by 1
 
 			if counter_InvalidUID == SkipThreshold : # number of invalid uids encountered reaches SkipThreshold value
-				count_range = ((count_range-1) - (counter_InvalidUID-1)) + SkipNumUID
+				count_range = count_range - (UID_range[count_range]%SkipNumUID) + SkipNumUID
 				counter_InvalidUID = 0
 		else : #in case of Scraped some data
 			counter_InvalidUID = 0
