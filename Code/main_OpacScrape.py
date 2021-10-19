@@ -40,9 +40,15 @@ if __name__ == "__main__" :
 
 	# Creating Data Directory
 	scrp.CreateData_dir()
-	count_range = 0 #initialize iterator
+	count_range = 0 #initialize iterator to go through UIDs
 
 	SkipNumUID = 100 #Number of UID's to be skipped
+
+	#Initialize counter that counts how many time UID is invalid consecutively.
+	counter_InvalidUID = 0
+
+	#Number of times the UID allowed to be invalid consecutively before skipping
+	SkipThreshold = 10
 
 	while count_range < len(UID_range): #Iterate though UIds
 		# Assign User ID
@@ -60,7 +66,13 @@ if __name__ == "__main__" :
 		elif status_Scrape == scrp.err.INVALID_UID : #Invalid User ID, delete directory
 			#scrp.DeleteUser_dir(UID)
 			print("!==Terminal Message: INVALID UID")
-			count_range += SkipNumUID -1
+			counter_InvalidUID += 1 #Increment number of Invalid UID counter by 1
+
+			if counter_InvalidUID == SkipThreshold : # number of invalid uids encountered reaches SkipThreshold value
+				count_range = ((count_range-1) - (counter_InvalidUID-1)) + SkipNumUID
+				counter_InvalidUID = 0
+		else : #in case of Scraped some data
+			counter_InvalidUID = 0
 			pass
 
 	#Closing Log File
